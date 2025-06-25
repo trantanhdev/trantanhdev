@@ -6,7 +6,7 @@
 
 - 😋 Hobbies: Beside coding I also like to fishing  🎣, reading 📚, hiking 🥾⛺ and sports ⚽ 🏈
 
-- 📫 How to reach me: trantanhdev@gmail.com - anhtransoftwaredev@gmail.com
+- 📫 How to reach me: trantanhdev@gmail.com
 
 ![text](https://github.com/trantanhdev/trantanhdev/blob/master/hiking_200_360.jpg)
 
